@@ -17,3 +17,5 @@ The sidebar includes navigation icons, a message search bar, and user avatars wi
 TailwindCSS simplifies responsive design, making the app visually appealing across different devices. The clean and structured layout ensures ease of navigation and interaction. This chat interface can be extended with features like real-time messaging using Firebase, Socket.IO, or WebSockets, and user authentication for private conversations. The design is user-friendly and demonstrates good UI/UX practices, making it a solid foundation for building scalable chat-based applications.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6929d1a6-50f7-4f0b-9d65-5a8456003fdf)
